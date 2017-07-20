@@ -38,6 +38,8 @@
 
 - Владислав Килин. [Как перестать бояться и использовать Vue.js](https://www.youtube.com/watch?v=r45EorOK7MA&list=PLVxsRDo37_Zdda1PEmbGomFbisl9O3vU1&index=3)
 
+- [Открытый микрофон](https://www.youtube.com/watch?v=0JOsoNzi6KY&list=PLVxsRDo37_Zdda1PEmbGomFbisl9O3vU1&index=4)
+
 ## UralJS #4 20.07.2017
 
 Coming soon :wink:
