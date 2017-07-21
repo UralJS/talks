@@ -36,7 +36,11 @@
 
 - Вячеслав Бухарин и Денис Омельков. [Трудности перехода](https://www.youtube.com/watch?v=O-GBvIrKEA0&list=PLVxsRDo37_Zdda1PEmbGomFbisl9O3vU1&index=2)
 
+  [Слайды](http://slides.com/denisomelkov/deck/)
+
 - Владислав Килин. [Как перестать бояться и использовать Vue.js](https://www.youtube.com/watch?v=r45EorOK7MA&list=PLVxsRDo37_Zdda1PEmbGomFbisl9O3vU1&index=3)
+
+  [Слайды](https://drive.google.com/file/d/0B5Ws8A4Wj25DZUFad2ZFUHV4RWM/view?usp=sharing)
 
 - [Открытый микрофон](https://www.youtube.com/watch?v=0JOsoNzi6KY&list=PLVxsRDo37_Zdda1PEmbGomFbisl9O3vU1&index=4)
 
