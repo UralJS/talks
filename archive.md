@@ -72,7 +72,7 @@
 
   [Слайды](https://slides.com/t1mmaas/react-dnd/)
 
-- [ткрытый микрофон](https://www.youtube.com/watch?v=dz4I39TrvGs)
+- [Открытый микрофон](https://www.youtube.com/watch?v=dz4I39TrvGs)
 
 ## UralJS #6 08.02.2018 @ Соль
 
