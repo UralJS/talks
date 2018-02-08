@@ -44,6 +44,36 @@
 
 - [Открытый микрофон](https://www.youtube.com/watch?v=0JOsoNzi6KY&list=PLVxsRDo37_Zdda1PEmbGomFbisl9O3vU1&index=4)
 
-## UralJS #4 20.07.2017
+## UralJS #4 20.07.2017 @ Frau Muller
+
+- Яна Клементьева. [HTTP/2](https://www.youtube.com/watch?v=wGcS9GokCXA)
+
+  [Слайды](https://docs.google.com/presentation/d/1D-rCIKVMApaP3j27p6B4KIvsCDKpsVsIHX_T7dhWm1k/edit)
+
+- Роман Бебнев. [Three.js](https://www.youtube.com/watch?v=NuMPWmS9P6Y)
+
+  [Слайды](http://slides.com/romanbebnev/deck/fullscreen#/)
+
+- Владимир Толстиков. [CSS in JS](https://www.youtube.com/watch?v=5HI7g3k0Ues)
+
+  [Слайды](https://original001.github.io/reveal.js/)
+
+## UralJS #5 22.11.2017 @ Соль
+
+- Илья Сухоплюев. [Интернационализация приложений и gettext​](https://www.youtube.com/watch?v=UIUXbzk273s)
+
+  [Слайды](https://docs.google.com/presentation/d/1eZlUdFqDwNtLSDDY2ksaSDYYDCh7UkRh_qcvedow2hI/edit)
+
+- Владимир Санников. [Декораторы в JS](https://www.youtube.com/watch?v=qRlMzRcToNE)
+
+  [Слайды](http://slides.com/vhaldemario/jsdecorators#/)
+
+- Теймураз Хазамов. [React-DnD](https://www.youtube.com/watch?v=amhSyi_NQ4s)
+
+  [Слайды](https://slides.com/t1mmaas/react-dnd/)
+
+- [ткрытый микрофон](https://www.youtube.com/watch?v=dz4I39TrvGs)
+
+## UralJS #6 08.02.2018 @ Соль
 
 Coming soon :wink:
