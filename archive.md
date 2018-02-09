@@ -62,7 +62,7 @@
 
 - Илья Сухоплюев. [Интернационализация приложений и gettext​](https://www.youtube.com/watch?v=UIUXbzk273s)
 
-  [Слайды](https://docs.google.com/presentation/d/1eZlUdFqDwNtLSDDY2ksaSDYYDCh7UkRh_qcvedow2hI/edit)
+  [Слайды](https://docs.google.com/presentation/d/1eZlUdFqDwNtLSDDY2ksaSDYYDCh7UkRh_qcvedow2hI)
 
 - Владимир Санников. [Декораторы в JS](https://www.youtube.com/watch?v=qRlMzRcToNE)
 
@@ -75,5 +75,19 @@
 - [Открытый микрофон](https://www.youtube.com/watch?v=dz4I39TrvGs)
 
 ## UralJS #6 08.02.2018 @ Соль
+
+- Николай Карев. [this is зло](https://youtu.be/tQJ8YafbtUU)
+
+  [Слайды](https://goo.gl/Vc7c37)
+
+- Михаил Шатихин. [Безжалостная типизация](https://youtu.be/_00hPGacr18)
+
+  [Слайды](https://goo.gl/E4fmL1)
+
+- Алексей Иванов. [React и данные: Эффективные способы хранения и изменения стейта](https://youtu.be/W0vZQaWqopw)
+
+  [Слайды](https://goo.gl/TXDCYL)
+
+## UralJS #7
 
 Coming soon :wink:
