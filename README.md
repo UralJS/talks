@@ -1,6 +1,6 @@
 # Полезные ссылки
 
-- [Записи докладов](https://github.com/UralJS/talks/blob/master/talks.md)
+- [Записи докладов](https://github.com/UralJS/talks/blob/master/archive.md)
 - [Гайд для подготовки доклада](https://github.com/UralJS/talks/blob/master/speaker.md)
 
 # Как добавить идею доклада
